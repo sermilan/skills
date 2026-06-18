@@ -18,6 +18,7 @@ skills/
 | 分类 | 说明 | 已收录 |
 |------|------|--------|
 | [academic/](https://github.com/sermilan/skills/tree/main/academic) | 学术研究、论文阅读、写作工具 | 1 |
+| [writing/](https://github.com/sermilan/skills/tree/main/writing) | 内容创作、排版格式化 | 1 |
 
 ## 安装方式
 
