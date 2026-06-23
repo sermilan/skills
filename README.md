@@ -19,6 +19,7 @@ skills/
 |------|------|--------|
 | [academic/](https://github.com/sermilan/skills/tree/main/academic) | 学术研究、论文阅读、写作工具 | 1 |
 | [writing/](https://github.com/sermilan/skills/tree/main/writing) | 内容创作、排版格式化 | 1 |
+| [compliance/](https://github.com/sermilan/skills/tree/main/compliance) | 网络安全合规、政策文件拆解 | 1 |
 
 ## 安装方式
 
